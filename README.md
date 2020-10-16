@@ -10,6 +10,7 @@ Before anything, head over to the [Unity Website](https://unity.com/) and get yo
 
 # Play the Game !
 [Play my microgame for free using this link here.](https://connect.unity.com/mg/other/untitled-35378)
+![Flap](/Flappy/demo.png)
 
 # Conclusion
 If you follow the tutorial linked above, you'll have your own "Flappy Bird" demo to share with friends. In the future, I'd love to revisit this project and add some more custom art. Maybe changing the dynamic of this game could turn it into a much more original piece of work. Officially speaking, this is a deprecated project and I'm not adding updates nor am I planning to.
