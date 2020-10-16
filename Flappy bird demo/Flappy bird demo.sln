@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flappy bird demo", "Flappy bird demo.csproj", "{CEEDDF7B-BEC9-49C9-CD33-E8E7962EFEB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEEDDF7B-BEC9-49C9-CD33-E8E7962EFEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEDDF7B-BEC9-49C9-CD33-E8E7962EFEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEDDF7B-BEC9-49C9-CD33-E8E7962EFEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEDDF7B-BEC9-49C9-CD33-E8E7962EFEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
